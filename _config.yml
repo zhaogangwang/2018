@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: Bitbill| BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: wangzhaogang@hotmail.com
 description: "Every failure is leading towards success."
 keyword: "bitbill blog"
 url: "https://zhaogangwang.github.io/Bitbill/"          # your host, for absolute URL
@@ -15,15 +15,6 @@ sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-
-# SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
 
 
 
